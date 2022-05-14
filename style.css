@@ -1,0 +1,15 @@
+.scheduler {
+    padding: 20px;
+    background-color: rgba(191, 191, 191, 0.15);
+    margin-top: 20px;
+}
+
+.group {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.resources {
+    margin-top: 10px;
+    display: inline-block;
+}
