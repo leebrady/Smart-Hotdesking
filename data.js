@@ -2,7 +2,7 @@ const resourcesList = ['Employee', 'Desk', 'Importance'];
 const data = [{
     text: 'All Day Booking',
     employeeId: 4,
-    roomId: 1,
+    deskId: 1,
     importanceId: [2],
     startDate: new Date('2022-05-19T16:30:00.000Z'),
     endDate: new Date('2022-05-19T18:30:00.000Z'),
@@ -10,14 +10,14 @@ const data = [{
 }, {
     text: 'Half Day Booking',
     employeeId: 2,
-    roomId: 2,
+    deskId: 2,
     importanceId: [1],
     startDate: new Date('2022-05-18T09:30:00.000Z'),
     endDate: new Date('2022-05-18T13:30:00.000Z'),
 }, {
     text: 'Morning Booking For X-Team Meeting',
     employeeId: 1,
-    roomId: 1,
+    deskId: 3,
     importanceId: [2],
     startDate: new Date('2022-05-17T08:00:00.000Z'),
     endDate: new Date('2022-05-17T10:00:00.000Z'),
