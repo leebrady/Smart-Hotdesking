@@ -1,4 +1,4 @@
-<h1 align="center"><b>Smart HotDeksing</b></h1>
+<h1 align="center"><b>Smart HotDesking</b></h1>
 <h2 align="center">A Web Application that facilitates hotdesking in an office environment.</h2>
 <h4 align="center">Try the live web demo!</h4>
 <h4 align="center">https://smart-hotdesking.herokuapp.com/</h4>
